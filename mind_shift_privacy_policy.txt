@@ -1,0 +1,56 @@
+Privacy Policy for Mind Shift
+
+Last Updated: April 18, 2024
+
+1. Introduction
+Welcome to Mind Shift! This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our Android app.
+
+By using Mind Shift, you agree to the terms and conditions outlined in this Privacy Policy. If you do not agree with these terms, please do not use our app.
+
+2. Information We Collect
+    a. Information You Provide
+We may collect and store information that you voluntarily provide to us when using Mind Shift. This may include:
+
+Notes and content that you create and save within the app.
+User account information, such as your username or email address if you choose to create an account.
+Feedback, comments, or support inquiries you submit to us.
+    b. Automatically Collected Information
+We may also collect certain information automatically when you use our app, including:
+
+Device information: This may include your device type, operating system, unique device identifiers, and mobile network information.
+Usage information: We collect data about how you interact with our app, such as the features you use, the time and date of your interactions, and any errors or crashes that occur.
+c. Location Information
+We may collect and process information about your general location when you use Mind Shift, but only if you have granted us permission to do so. We use this information to provide location-based features, such as location-based reminders.
+
+3. How We Use Your Information
+We use the information we collect for various purposes, including:
+
+To provide, maintain, and improve our app's features and functionality.
+To personalize your experience and provide content and features that are relevant to you.
+To communicate with you, respond to your inquiries, and provide customer support.
+To analyze usage patterns and trends to improve our app and develop new features.
+To send you important updates, promotional materials, or other information related to Mind Shift (you can opt out of marketing communications).
+
+4. How We Share Your Information
+We do not sell, rent, or trade your personal information to third parties. However, we may share your information in the following circumstances:
+
+With trusted service providers who assist us in operating our app and delivering services (e.g., hosting, analytics, customer support).
+With your consent or at your direction.
+To comply with legal obligations or protect our rights, privacy, safety, or property.
+
+5. Data Security
+We take data security seriously and have implemented appropriate technical and organizational measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+6. Children's Privacy
+Mind Shift is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe that we have inadvertently collected information from a child under 13, please contact us, and we will promptly take steps to delete such information.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any changes by posting the updated policy on our app. Please review this Privacy Policy periodically.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at Mind Shifttechsolutions@gmail.com.
+
+By using Mind Shift, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
+
+Mind Shift,
+Mind Shifttechsolutions@gmail.com
