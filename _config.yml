@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Flashy Tech Solutions
+email: flashytechsolutions@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Flashy Tech Solutions, Upgrading Tech One Step at a Time!
+baseurl: "https://www.flashytechsolutions.com/" # the subpath of your site, e.g. /blog
+url: "https://www.flashytechsolutions.com/" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Optional features
+show_excerpts: true
+
+# Markdown Engine
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude from build
+exclude:
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugin settings
+jekyll-feed:
+  path: "feed.xml"
